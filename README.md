@@ -27,15 +27,10 @@ A Python-based smart attendance system that uses face recognition to automatical
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots of your app’s main window, attendance logs, and face recognition if available.
-
----
 
 ## 🔧 Installation
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/Diksha2004/Face-Recognition-based-Attendance-Management-System.git
    cd attendance-system
