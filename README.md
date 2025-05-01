@@ -1,2 +1,41 @@
 # Face-Recognition-based-Attendance-Management-System
-This project is a smart attendance tracking system designed for companies. It uses facial recognition to mark employee attendance in real time, logs check-in and check-out times, and stores data securely in Excel files. The system reduces manual errors, prevents proxy attendance, and provides a simple GUI for HR/admin use.
+
+A Python-based smart attendance system that uses face recognition to automatically mark attendance, log check-in and check-out times, and save records in Excel files. Designed with a clean and user-friendly GUI using PyQt5.
+
+---
+
+## 📌 Features
+
+- 🎯 Real-time Face Detection and Recognition
+- 🕒 Check-In & Check-Out Time Logging
+- 🗃️ Attendance Records Stored in Excel Format
+- 🖥️ GUI Interface for Easy Use (PyQt5)
+- ⚙️ Shift-based Attendance Support
+- 📅 Leave Management Module (Optional)
+- 🔒 Prevents Proxy Attendance
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- OpenCV
+- face_recognition
+- PyQt5
+- Pandas
+- Excel (xlsxwriter / openpyxl)
+
+---
+
+## 📷 Screenshots
+
+> Add screenshots of your app’s main window, attendance logs, and face recognition if available.
+
+---
+
+## 🔧 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/attendance-system.git
+   cd attendance-system
